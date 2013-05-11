@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for jQuery Tags Input Plugin
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: https://github.com/xoxco/jQuery-Tags-Input
